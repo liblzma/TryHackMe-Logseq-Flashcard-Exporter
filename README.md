@@ -48,6 +48,9 @@ Flashcards are created by adding a `#card` tag to a line – Logseq then turns t
 
    ![Logseq flashcard usage](https://github.com/user-attachments/assets/eebff025-a01c-4eda-8b0d-f675bdce3c0d)
 
+   ![Logseq flashcard usage #2](https://github.com/user-attachments/assets/a01ae2fa-5a5a-425e-9f3c-f19b366fae4b)
+
+
 
 ## 🛠️ Development & Contribution  
 
