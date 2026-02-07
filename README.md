@@ -40,11 +40,11 @@ Flashcards are created by adding a `#card` tag to a line – Logseq then turns t
 
 5. Paste the markdown into any Logseq page. Each line containing `#card` becomes a flashcard.
 
-   ![Logseq flashcard overview](https://github.com/user-attachments/assets/d3f0790d-be54-47cc-9abd-1569942c6b29")
+   ![Logseq flashcard overview](https://github.com/user-attachments/assets/d3f0790d-be54-47cc-9abd-1569942c6b29)
 
 6. Use Logseq's flashcard feature to reinforce your newly gained knowledge:
 
-   ![Logseq flashcard usage](https://github.com/user-attachments/assets/eebff025-a01c-4eda-8b0d-f675bdce3c0d")
+   ![Logseq flashcard usage](https://github.com/user-attachments/assets/eebff025-a01c-4eda-8b0d-f675bdce3c0d)
 
 ---  
 
