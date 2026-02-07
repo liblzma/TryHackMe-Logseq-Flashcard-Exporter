@@ -2,7 +2,7 @@
 
 ## ✨ Features (in a nutshell)  
 
-* Export questions from any TryHackMe room into Markdown-formatted flashcards for note-taking tool Logseq
+* Export questions from any TryHackMe room into Markdown-formatted flashcards for note-taking tool Logseq.
 * Works on any TryHackMe room (`/room/<slug>`).  
 * One‑click copy to clipboard.  
 * No external dependencies – pure vanilla JavaScript.
