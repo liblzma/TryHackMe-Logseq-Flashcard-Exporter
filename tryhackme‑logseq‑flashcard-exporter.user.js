@@ -230,10 +230,10 @@
       const lines = [];
 
       selected.forEach((q) => {
-        // Task heading (Logseq style)
+        // Task heading
         lines.push(`- ### ${q.taskTitle}`);
 
-        // Question line – the `#card` tag is required by Logseq
+        // Question line – the `#card` identifies the log as a flashcard
         lines.push(`  ${q.text.trim()} #card`);
 
         // Optional “Answer format” line (kept if already present)
@@ -277,7 +277,7 @@
   };
 
   /**
-   * Entry point that is bound to a Tamper‑Monkey menu command.
+   * Entry point that is run via the menu command.
    * It validates the page, fetches the room JSON and launches the UI.
    */
   const startExport = async () => {
