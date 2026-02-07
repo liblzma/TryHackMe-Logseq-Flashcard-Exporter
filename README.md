@@ -29,7 +29,7 @@ Flashcards are created by adding a `#card` tag to a line – Logseq then turns t
    ![Menu entry](https://github.com/user-attachments/assets/d2241451-4166-449a-9164-13a04b9e850e)
 
 3. A small modal appears.  
-   * Tick the questions you want to export (checkboxes are pre‑checked for already‑answered questions).  
+   * Select the questions you want to export. 
    * Click **“Create flash‑cards”**.  
 
    ![Modal UI](https://github.com/user-attachments/assets/120d369f-35d1-4289-a704-8a7894b3b526)
