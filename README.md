@@ -4,8 +4,8 @@
 
 * Export questions from any TryHackMe room into Markdown-formatted flashcards for note-taking tool Logseq.
 * Works on any TryHackMe room (`/room/<slug>`).  
+* Only select relevant questions (e.g. to exclude flag-specfic questions).
 * One‑click copy to clipboard.  
-* Only select relevant questions (e.g. to exclude flag-specfic questions)
 
 
 ## 📖 What is Logseq?  
