@@ -5,19 +5,19 @@
 * Export questions from any TryHackMe room into Markdown-formatted flashcards for note-taking tool Logseq.
 * Works on any TryHackMe room (`/room/<slug>`).  
 * One‑click copy to clipboard.  
-* No external dependencies – pure vanilla JavaScript.
+* Only select relevant questions (e.g. to exclude flag-specfic questions)
 
 
 ## 📖 What is Logseq?  
 
 [Logseq]([url](https://logseq.com/)) is a free and versatile open‑source knowledge‑base / note‑taking tool that uses plain‑text markdown.  
-Flashcards are created by adding a `#card` tag to a line – Logseq then turns the line into a spaced‑repetition flashcard.
+Flashcards are created by adding a `#card` tag to a line – Logseq then turns the entry into a spaced‑repetition flashcard.
 
 
 ## 🚀 How to install  
 
 1. **Install a userscript manager** in your browser – e.g. [Violentmonkey](https://violentmonkey.github.io/), [Tampermonkey](https://www.tampermonkey.net/) or any other that supports `GM_*` APIs.  
-2. Click the **raw** link of the script: [tryhackme‑logseq‑flashcard-exporter.user.js](https://github.com/liblzma/TryHackMe-Logseq-Flashcard-Exporter/raw/main/tryhackme‑logseq‑flashcard-exporter.user.js)
+2. Click on the **raw link** of the script: [tryhackme‑logseq‑flashcard-exporter.user.js](https://github.com/liblzma/TryHackMe-Logseq-Flashcard-Exporter/raw/main/tryhackme‑logseq‑flashcard-exporter.user.js)
     - The userscript manager will prompt you to install the script.
 
 
